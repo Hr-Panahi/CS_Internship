@@ -35,7 +35,9 @@ namespace MultiCastDelegateExample
 			//runtime checking - it is not type safe
 			multiDelegate.DynamicInvoke(name);
 			//Console.WriteLine(multiDelegate.DynamicInvoke(name));
+
 		}
+
 
 		public static void Hello(string name)
 		{

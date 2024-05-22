@@ -1,0 +1,15 @@
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\FilterDelegateProj\bin\Debug\net8.0\FilterDelegateProj.exe
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\FilterDelegateProj\bin\Debug\net8.0\FilterDelegateProj.deps.json
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\FilterDelegateProj\bin\Debug\net8.0\FilterDelegateProj.runtimeconfig.json
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\FilterDelegateProj\bin\Debug\net8.0\FilterDelegateProj.dll
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\FilterDelegateProj\bin\Debug\net8.0\FilterDelegateProj.pdb
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\FilterDelegateProj\obj\Debug\net8.0\FilterDelegateProj.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\FilterDelegateProj\obj\Debug\net8.0\FilterDelegateProj.AssemblyInfoInputs.cache
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\FilterDelegateProj\obj\Debug\net8.0\FilterDelegateProj.AssemblyInfo.cs
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\FilterDelegateProj\obj\Debug\net8.0\FilterDelegateProj.csproj.CoreCompileInputs.cache
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\FilterDelegateProj\obj\Debug\net8.0\FilterDelegateProj.sourcelink.json
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\FilterDelegateProj\obj\Debug\net8.0\FilterDelegateProj.dll
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\FilterDelegateProj\obj\Debug\net8.0\refint\FilterDelegateProj.dll
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\FilterDelegateProj\obj\Debug\net8.0\FilterDelegateProj.pdb
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\FilterDelegateProj\obj\Debug\net8.0\FilterDelegateProj.genruntimeconfig.cache
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\FilterDelegateProj\obj\Debug\net8.0\ref\FilterDelegateProj.dll

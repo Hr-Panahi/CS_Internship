@@ -1,0 +1,15 @@
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\LambdaProj\bin\Debug\net8.0\LambdaProj.exe
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\LambdaProj\bin\Debug\net8.0\LambdaProj.deps.json
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\LambdaProj\bin\Debug\net8.0\LambdaProj.runtimeconfig.json
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\LambdaProj\bin\Debug\net8.0\LambdaProj.dll
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\LambdaProj\bin\Debug\net8.0\LambdaProj.pdb
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\LambdaProj\obj\Debug\net8.0\LambdaProj.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\LambdaProj\obj\Debug\net8.0\LambdaProj.AssemblyInfoInputs.cache
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\LambdaProj\obj\Debug\net8.0\LambdaProj.AssemblyInfo.cs
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\LambdaProj\obj\Debug\net8.0\LambdaProj.csproj.CoreCompileInputs.cache
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\LambdaProj\obj\Debug\net8.0\LambdaProj.sourcelink.json
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\LambdaProj\obj\Debug\net8.0\LambdaProj.dll
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\LambdaProj\obj\Debug\net8.0\refint\LambdaProj.dll
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\LambdaProj\obj\Debug\net8.0\LambdaProj.pdb
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\LambdaProj\obj\Debug\net8.0\LambdaProj.genruntimeconfig.cache
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\LambdaProj\obj\Debug\net8.0\ref\LambdaProj.dll

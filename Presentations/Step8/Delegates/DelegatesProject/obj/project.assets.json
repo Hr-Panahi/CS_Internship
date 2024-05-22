@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitHub\\CS_Internship\\CS_Internship\\Presentations\\Step8\\Delegates\\DelegatesProject\\DelegatesProject.csproj",
-      "projectName": "DelegatesProject",
-      "projectPath": "E:\\GitHub\\CS_Internship\\CS_Internship\\Presentations\\Step8\\Delegates\\DelegatesProject\\DelegatesProject.csproj",
+      "projectUniqueName": "E:\\GitHub\\CS_Internship\\CS_Internship\\Presentations\\Step8\\Delegates\\DelegatesProject\\DelegatesProj.csproj",
+      "projectName": "DelegatesProj",
+      "projectPath": "E:\\GitHub\\CS_Internship\\CS_Internship\\Presentations\\Step8\\Delegates\\DelegatesProject\\DelegatesProj.csproj",
       "packagesPath": "C:\\Users\\Legend\\.nuget\\packages\\",
       "outputPath": "E:\\GitHub\\CS_Internship\\CS_Internship\\Presentations\\Step8\\Delegates\\DelegatesProject\\obj\\",
       "projectStyle": "PackageReference",
