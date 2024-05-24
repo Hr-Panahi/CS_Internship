@@ -1,0 +1,15 @@
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\EventsProj\bin\Debug\net8.0\EventsProj.exe
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\EventsProj\bin\Debug\net8.0\EventsProj.deps.json
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\EventsProj\bin\Debug\net8.0\EventsProj.runtimeconfig.json
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\EventsProj\bin\Debug\net8.0\EventsProj.dll
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\EventsProj\bin\Debug\net8.0\EventsProj.pdb
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\EventsProj\obj\Debug\net8.0\EventsProj.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\EventsProj\obj\Debug\net8.0\EventsProj.AssemblyInfoInputs.cache
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\EventsProj\obj\Debug\net8.0\EventsProj.AssemblyInfo.cs
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\EventsProj\obj\Debug\net8.0\EventsProj.csproj.CoreCompileInputs.cache
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\EventsProj\obj\Debug\net8.0\EventsProj.sourcelink.json
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\EventsProj\obj\Debug\net8.0\EventsProj.dll
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\EventsProj\obj\Debug\net8.0\refint\EventsProj.dll
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\EventsProj\obj\Debug\net8.0\EventsProj.pdb
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\EventsProj\obj\Debug\net8.0\EventsProj.genruntimeconfig.cache
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\EventsProj\obj\Debug\net8.0\ref\EventsProj.dll

@@ -1,115 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\GitHub\\CS_Internship\\CS_Internship\\Presentations\\Step8\\Delegates\\DelegatesProject\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{C6C13150-39E7-402E-AB9F-77B59F6CB8FB}|..\\LambdaProj\\LambdaProj.csproj|e:\\github\\cs_internship\\cs_internship\\presentations\\step8\\delegates\\lambdaproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E958C4EA-6779-42A3-9238-34525678A23A}|..\\LambdaProj2\\LambdaProj2.csproj|e:\\github\\cs_internship\\cs_internship\\presentations\\step8\\delegates\\lambdaproj2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC2235BA-F653-435D-AFA0-08A70F06622E}|..\\FilterDelegateProj\\FilterDelegateProj.csproj|e:\\github\\cs_internship\\cs_internship\\presentations\\step8\\delegates\\filterdelegateproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F02F8D5-D815-4D47-ADFC-A0D7E4E14377}|..\\PredicateFuncActionProj\\PredicateFuncActionProj.csproj|e:\\github\\cs_internship\\cs_internship\\presentations\\step8\\delegates\\predicatefuncactionproj\\predicatefuncactionproj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F02F8D5-D815-4D47-ADFC-A0D7E4E14377}|..\\PredicateFuncActionProj\\PredicateFuncActionProj.csproj|e:\\github\\cs_internship\\cs_internship\\presentations\\step8\\delegates\\predicatefuncactionproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DA15DF0-A378-4737-B858-C1146BB81227}|DelegatesProj.csproj|e:\\github\\cs_internship\\cs_internship\\presentations\\step8\\delegates\\delegatesproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DA15DF0-A378-4737-B858-C1146BB81227}|DelegatesProj.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\GitHub\\CS_Internship\\CS_Internship\\Presentations\\Step8\\Delegates\\LambdaProj\\Program.cs",
-              "RelativeDocumentMoniker": "..\\LambdaProj\\Program.cs",
-              "ToolTip": "E:\\GitHub\\CS_Internship\\CS_Internship\\Presentations\\Step8\\Delegates\\LambdaProj\\Program.cs",
-              "RelativeToolTip": "..\\LambdaProj\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAxwBcAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T09:27:01.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\GitHub\\CS_Internship\\CS_Internship\\Presentations\\Step8\\Delegates\\LambdaProj2\\Program.cs",
-              "RelativeDocumentMoniker": "..\\LambdaProj2\\Program.cs",
-              "ToolTip": "E:\\GitHub\\CS_Internship\\CS_Internship\\Presentations\\Step8\\Delegates\\LambdaProj2\\Program.cs",
-              "RelativeToolTip": "..\\LambdaProj2\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAUwCYAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T09:10:44.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PredicateFuncActionProj.csproj",
-              "DocumentMoniker": "E:\\GitHub\\CS_Internship\\CS_Internship\\Presentations\\Step8\\Delegates\\PredicateFuncActionProj\\PredicateFuncActionProj.csproj",
-              "RelativeDocumentMoniker": "..\\PredicateFuncActionProj\\PredicateFuncActionProj.csproj",
-              "ToolTip": "E:\\GitHub\\CS_Internship\\CS_Internship\\Presentations\\Step8\\Delegates\\PredicateFuncActionProj\\PredicateFuncActionProj.csproj",
-              "RelativeToolTip": "..\\PredicateFuncActionProj\\PredicateFuncActionProj.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-21T11:29:47.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\GitHub\\CS_Internship\\CS_Internship\\Presentations\\Step8\\Delegates\\FilterDelegateProj\\Program.cs",
-              "RelativeDocumentMoniker": "..\\FilterDelegateProj\\Program.cs",
-              "ToolTip": "E:\\GitHub\\CS_Internship\\CS_Internship\\Presentations\\Step8\\Delegates\\FilterDelegateProj\\Program.cs",
-              "RelativeToolTip": "..\\FilterDelegateProj\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T11:18:25.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\GitHub\\CS_Internship\\CS_Internship\\Presentations\\Step8\\Delegates\\PredicateFuncActionProj\\Program.cs",
-              "RelativeDocumentMoniker": "..\\PredicateFuncActionProj\\Program.cs",
-              "ToolTip": "E:\\GitHub\\CS_Internship\\CS_Internship\\Presentations\\Step8\\Delegates\\PredicateFuncActionProj\\Program.cs",
-              "RelativeToolTip": "..\\PredicateFuncActionProj\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T11:02:12.696Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\GitHub\\CS_Internship\\CS_Internship\\Presentations\\Step8\\Delegates\\DelegatesProject\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\GitHub\\CS_Internship\\CS_Internship\\Presentations\\Step8\\Delegates\\DelegatesProject\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T10:55:31.989Z"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

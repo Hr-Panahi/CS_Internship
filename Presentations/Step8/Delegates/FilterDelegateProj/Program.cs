@@ -5,6 +5,7 @@ internal class Program
 
 	private static void Main(string[] args)
 	{
+		#region Initializing
 		Person p1 = new Person("Hamid", 29);
 		Person p2 = new Person("Mohammad", 34);
 		Person p3 = new Person("Mina", 25);
@@ -13,38 +14,37 @@ internal class Program
 		Person p6 = new Person("Sara", 8);
 
 		List<Person> people = new() { p1, p2, p3, p4, p5, p6 };
+		#endregion
 
-		DisplayPeople("Childs", people, Teenagers);
+		//DisplayPeople("Childs", people, Childs);
 
+
+		#region Anonymous Method
 		FilterDelegate filter = delegate (Person p)
 		{
 			return p.Age > 25 && p.Age < 30;
 		};
 
-		DisplayPeople("Childs", people, filter);
-
-		#region Anonymous Method
-		//anonymous method
-		//DisplayPeople("Anyone", people, delegate (Person p) { return p.Age > 0; });
+		DisplayPeople("[Anonymous method] between 25 and 30:", people, filter);
 		#endregion
 
 		#region Lambda
-		//statement lambda 
-		string searchKeyword = "A";
-		DisplayPeople("age > 20 with search keyword" + searchKeyword, people, p =>
-		{
-			if (p.Name.Contains(searchKeyword) && p.Age > 20)
-			{
-				return true;
-			}
-			else
-			{
-				return false;
-			}
-		});
+		////statement lambda 
+		//string searchKeyword = "A";
+		//DisplayPeople("age > 20 with search keyword" + searchKeyword, people, p =>
+		//{
+		//	if (p.Name.Contains(searchKeyword) && p.Age > 20)
+		//	{
+		//		return true;
+		//	}
+		//	else
+		//	{
+		//		return false;
+		//	}
+		//});
 
-		//expression lambda
-		DisplayPeople("People exactly 25 years old:", people, p => p.Age == 25);
+		////expression lambda
+		//DisplayPeople("People exactly 25 years old:", people, p => p.Age == 25);
 		#endregion
 	}
 	static void DisplayPeople(string title, List<Person> people, FilterDelegate filter)

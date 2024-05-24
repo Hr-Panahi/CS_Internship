@@ -31,12 +31,8 @@
 				}
 			}
 
-			float a = 10f;
-			float b = 5f;
-			//string operator = "+";
-
 			Func<float, float, float> operation = OperationGet("+");
-			float result = operation(a, b);
+			float result = operation(3, 4);
 			Console.WriteLine(result);
 
 			//string[] operations = { "+", "-", "/", "*" };

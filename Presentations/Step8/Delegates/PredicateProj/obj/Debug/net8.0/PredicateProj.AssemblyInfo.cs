@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PredicateProj")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a7fc7554e4fa3a2f14bb478becb4e9ab82a8a60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+351a5999298cfdf62be2a880d2d33a2fbf7dff75")]
 [assembly: System.Reflection.AssemblyProductAttribute("PredicateProj")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PredicateProj")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

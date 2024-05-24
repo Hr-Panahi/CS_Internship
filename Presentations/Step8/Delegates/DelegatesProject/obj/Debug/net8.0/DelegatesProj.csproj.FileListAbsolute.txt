@@ -1,0 +1,15 @@
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\DelegatesProject\bin\Debug\net8.0\DelegatesProj.exe
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\DelegatesProject\bin\Debug\net8.0\DelegatesProj.deps.json
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\DelegatesProject\bin\Debug\net8.0\DelegatesProj.runtimeconfig.json
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\DelegatesProject\bin\Debug\net8.0\DelegatesProj.dll
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\DelegatesProject\bin\Debug\net8.0\DelegatesProj.pdb
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\DelegatesProject\obj\Debug\net8.0\DelegatesProj.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\DelegatesProject\obj\Debug\net8.0\DelegatesProj.AssemblyInfoInputs.cache
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\DelegatesProject\obj\Debug\net8.0\DelegatesProj.AssemblyInfo.cs
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\DelegatesProject\obj\Debug\net8.0\DelegatesProj.csproj.CoreCompileInputs.cache
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\DelegatesProject\obj\Debug\net8.0\DelegatesProj.sourcelink.json
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\DelegatesProject\obj\Debug\net8.0\DelegatesProj.dll
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\DelegatesProject\obj\Debug\net8.0\refint\DelegatesProj.dll
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\DelegatesProject\obj\Debug\net8.0\DelegatesProj.pdb
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\DelegatesProject\obj\Debug\net8.0\DelegatesProj.genruntimeconfig.cache
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\DelegatesProject\obj\Debug\net8.0\ref\DelegatesProj.dll

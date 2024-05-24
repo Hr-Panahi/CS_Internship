@@ -1,0 +1,15 @@
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\PredicateProj\bin\Debug\net8.0\PredicateProj.exe
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\PredicateProj\bin\Debug\net8.0\PredicateProj.deps.json
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\PredicateProj\bin\Debug\net8.0\PredicateProj.runtimeconfig.json
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\PredicateProj\bin\Debug\net8.0\PredicateProj.dll
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\PredicateProj\bin\Debug\net8.0\PredicateProj.pdb
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\PredicateProj\obj\Debug\net8.0\PredicateProj.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\PredicateProj\obj\Debug\net8.0\PredicateProj.AssemblyInfoInputs.cache
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\PredicateProj\obj\Debug\net8.0\PredicateProj.AssemblyInfo.cs
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\PredicateProj\obj\Debug\net8.0\PredicateProj.csproj.CoreCompileInputs.cache
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\PredicateProj\obj\Debug\net8.0\PredicateProj.sourcelink.json
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\PredicateProj\obj\Debug\net8.0\PredicateProj.dll
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\PredicateProj\obj\Debug\net8.0\refint\PredicateProj.dll
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\PredicateProj\obj\Debug\net8.0\PredicateProj.pdb
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\PredicateProj\obj\Debug\net8.0\PredicateProj.genruntimeconfig.cache
+E:\GitHub\CS_Internship\CS_Internship\Presentations\Step8\Delegates\PredicateProj\obj\Debug\net8.0\ref\PredicateProj.dll
